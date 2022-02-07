@@ -1,5 +1,5 @@
 # CREDIT-CASE-EDA
-Problem Statement - I
+Problem Statement
  
 
 Introduction
